@@ -1,1 +1,1 @@
-# k8-s-resou
+# k8's-resou
